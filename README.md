@@ -1,1 +1,1 @@
-# action-npm-push
+# action npm push
